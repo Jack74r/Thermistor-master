@@ -1,6 +1,6 @@
 /*
 //---------------Simple Example------------------//
-Lib : thermistor-master.h
+Library : thermistor-master.h
 SimpleThermistor.ino Arduino library for Thermistor
 Created by Raphael Vittoz 
 V1.0  26/04/2017
