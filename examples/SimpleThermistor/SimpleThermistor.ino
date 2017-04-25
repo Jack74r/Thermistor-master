@@ -12,7 +12,7 @@ Type      |   Resistance  | Range (recommanded)
 2.2K      |   2.2 KΩ    | 25 °C -55 to 150 °C
 3K*       |   3 KΩ      | 25 °C -55 to 150 °C
 3.3K      |   3.3 KΩ    | 25 °C -55 to 150 °C
-10K     |   10 KΩ     | 25 °C -55 to 150 °C
+10K       |   10 KΩ     | 25 °C -55 to 150 °C
 20K       |   20 KΩ     | 25 °C -55 to 150 °C
 47K       |   47 KΩ     | 25 °C -55 to 150 °C
 50K       |   50 KΩ     | 25 °C -80 to 150 °C
